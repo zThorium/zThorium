@@ -70,13 +70,6 @@ My name is Fabián Lara, a Civil Computer Engineer, passionate about building AI
 <p align="center">
   <a href="https://github.com/zThorium/Internado-UV-Odontologia">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=Internado-UV-Odontologia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Internado UV Odontología"/>
-  </a>
-  <a href="https://github.com/zThorium/emotional-journal">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=emotional-journal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Emotional Journal"/>
-  </a>
-  <a href="https://github.com/itvis-seicho/Test-Bot">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=itvis-seicho&repo=Test-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Test Bot"/>
-  </a>
 </p>
 
 <p align="center">
