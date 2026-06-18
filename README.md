@@ -8,14 +8,14 @@
   </a>
 </h1>
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Fabián-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-figueroa-81612a387/](https://www.linkedin.com/in/fabian-lara-figueroa-81612a387/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabián-informational?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fabian-figueroa-81612a387/](https://www.linkedin.com/in/fabian-lara-figueroa-81612a387/))
 [![Mail](https://img.shields.io/badge/Gmail-fabianfigueroa1610@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:fabianfigueroa1610@gmail.com?subject=Hey!)
 
 <br>
 
 # 👋 Hi there
 
-My name is Fabián Lara, a Civil Computer Engineer, passionate about building AI-powered systems and full-stack applications.
+My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaíso 🇨🇱, passionate about building AI-powered systems and full-stack applications.
 
 💻 I specialize in designing and developing **LLM-based chatbots and agent architectures** using LangGraph and LangChain on NestJS backends — currently building an intelligent medical scheduling assistant.
 
@@ -70,6 +70,7 @@ My name is Fabián Lara, a Civil Computer Engineer, passionate about building AI
 <p align="center">
   <a href="https://github.com/zThorium/Internado-UV-Odontologia">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=Internado-UV-Odontologia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Internado UV Odontología"/>
+  </a>
 </p>
 
 <p align="center">
