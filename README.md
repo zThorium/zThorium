@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabián-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-figueroa-81612a387/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Fabián-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-figueroa-81612a387/](https://www.linkedin.com/in/fabian-lara-figueroa-81612a387/))
 [![Mail](https://img.shields.io/badge/Gmail-fabianfigueroa1610@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:fabianfigueroa1610@gmail.com?subject=Hey!)
 
 <br>
