@@ -15,7 +15,7 @@
 
 # 👋 Hi there
 
-My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaíso 🇨🇱, passionate about building AI-powered systems and full-stack applications.
+My name is Fabián Lara, a Civil Computer Engineer, passionate about building AI-powered systems and full-stack applications.
 
 💻 I specialize in designing and developing **LLM-based chatbots and agent architectures** using LangGraph and LangChain on NestJS backends — currently building an intelligent medical scheduling assistant.
 
@@ -68,14 +68,14 @@ My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaí
 ## 👨‍💻 Repositorios destacados
 
 <p align="center">
-  <a href="https://github.com/zThorium/REPO_1">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=REPO_1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Repo 1"/>
+  <a href="https://github.com/zThorium/Internado-UV-Odontologia">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=Internado-UV-Odontologia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Internado UV Odontología"/>
   </a>
-  <a href="https://github.com/zThorium/REPO_2">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=REPO_2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Repo 2"/>
+  <a href="https://github.com/zThorium/emotional-journal">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=emotional-journal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Emotional Journal"/>
   </a>
-  <a href="https://github.com/zThorium/REPO_3">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=REPO_3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Repo 3"/>
+  <a href="https://github.com/itvis-seicho/Test-Bot">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=itvis-seicho&repo=Test-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Test Bot"/>
   </a>
 </p>
 
@@ -92,8 +92,6 @@ My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaí
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zThorium&langs_count=8&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&layout=compact)](https://github.com/zThorium)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zThorium&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/zThorium)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zThorium&theme=react&background=1F222E&hide_border=true&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)](https://github.com/zThorium)
 
 > **Note:** Top languages only reflect my public code and don't represent my full skill set.
 
