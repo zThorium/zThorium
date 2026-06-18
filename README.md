@@ -65,6 +65,28 @@ My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaí
 
 ---
 
+## 👨‍💻 Repositorios destacados
+
+<p align="center">
+  <a href="https://github.com/zThorium/REPO_1">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=REPO_1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Repo 1"/>
+  </a>
+  <a href="https://github.com/zThorium/REPO_2">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=REPO_2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Repo 2"/>
+  </a>
+  <a href="https://github.com/zThorium/REPO_3">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=zThorium&repo=REPO_3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Repo 3"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/zThorium?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zThorium&langs_count=8&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&layout=compact)](https://github.com/zThorium)
@@ -78,7 +100,7 @@ My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaí
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
-  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zThorium/zThorium/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zThorium/zThorium/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zThorium/zThorium/output/github-snake.svg" style="width: 100%;" />
 </picture>
