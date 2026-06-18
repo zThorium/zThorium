@@ -1,153 +1,84 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=zThorium&label=Profile%20views&color=0e75b6&style=flat" alt="zThorium" />
+</p>
+
 <h1 align="center">
-Hola, soy Fabián Lara!
-	<a href="https://github.com/zThorium" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Fabi%C3%A1n+Lara+Figueroa" alt="Title GitHub Readme" />
+  </a>
 </h1>
-<img src="https://i.imgur.com/1WSRpe8.png"/>
-<p align="center">
-	<a href="https://github.com/zThorium">
-		<img src="https://komarev.com/ghpvc/?username=zThorium&label=Profile%20views&color=0e75b6&style=flat" alt="zThorium" />
-	</a>
-	<a href="https://github.com/zThorium">
-		<img src="https://img.shields.io/github/followers/zThorium?label=Followers" alt="zThorium" />
-	</a>
-</p>
-<br/>
-<p align="center">
-	<a href="https://github.com/zThorium">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
 
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabián-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-figueroa-81612a387/)
+[![Mail](https://img.shields.io/badge/Gmail-fabianfigueroa1610@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:fabianfigueroa1610@gmail.com?subject=Hey!)
 
-<pre>
-💻 Soy un desarrollador Full Stack autodidacta y un desarrollador de aprendizaje automático.
-📚 Estudiante de ingeniería civil informática de la Universidad de Valparaíso
-📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial.
-🔭 Trabajando en aprendizaje profundo y aprendizaje automático
-🌱 Aprendiendo sobre Visión por Computadora y Aprendizaje Automático
-🌟 Lenguajes dominados: Python, JavaScript, Java, C#, C++
-🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático de pila completa
-</pre>
-<hr>
+<br>
 
-## 🤝 Contactame
-<p align="center">
-	<a href="mailto:fabianfigueroa1610@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/fabian-figueroa-81612a387/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/zThorium"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+# 👋 Hi there
 
-## 🛠️ Herramientas Favoritas
+My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaíso 🇨🇱, passionate about building AI-powered systems and full-stack applications.
 
-### 👨‍💻 Lenguajes de Programación
+💻 I specialize in designing and developing **LLM-based chatbots and agent architectures** using LangGraph and LangChain on NestJS backends — currently building an intelligent medical scheduling assistant.
 
-<p>
-    <a href="https://github.com/zThorium"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/zThorium"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+🧠 My interests lie in **applied AI, prompt engineering, LLM agent patterns**, and scalable backend systems with TypeScript, Prisma, and PostgreSQL.
 
-### 🧰 Frameworks y Librerías
+🔭 Outside work, I enjoy exploring new tech, contributing to side projects, and continuously iterating on my own developer tooling and workflows.
 
-<p>
-    <a href="https://github.com/zThorium"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-</p>
+---
 
-### 🗄️ Bases de datos y alojamiento en la nube
+## 🛠️ Tech Stack
 
-<p>
-    <a href="https://github.com/zThorium"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-</p>
+**Languages**
 
-### 💻 Software y Herramientas
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p>
-    <a href="https://github.com/zThorium"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-</br>
+**Frameworks & Libraries**
 
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/zThorium"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/zThorium"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
+**AI / LLM**
 
-## <a href="https://github.com/zThorium"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+![LangGraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-%23D97757.svg?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-%23000000.svg?style=flat-square&logoColor=white)
 
-<br/>
-<summary><b>⚡ zThorium Estadísticas</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/zThorium">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zThorium&show_icons=true" alt="zThorium">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zThorium" alt="zThorium">
-	</a>
-	<br/>
-</p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/zThorium">
-		<img src="https://activity-graph.herokuapp.com/graph?username=zThorium&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="zThorium">
-	</a>
-</p>
-<br/>
--->						
-<summary><b>⚡ Lenguajes Top</b></summary>
-<br/>
+**Databases & Infrastructure**
 
-<p align="center">
-	<a href="https://github.com/zThorium">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zThorium&langs_count=8&layout=compact" alt="zThorium">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
-</p>
-<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=flat-square&logo=firebase&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900.svg?style=flat-square&logo=amazonrds&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+---
 
-## ¡Trabajemos juntos en tu proyecto!
+## 📊 GitHub Stats
 
-Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en contactarnos. <a href="fabianfigueroa1610@gmail.com">contáctame por correo electrónico</a>.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zThorium&langs_count=8&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&layout=compact)](https://github.com/zThorium)
 
-  </td>
-  <td width="50%" valign="top">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zThorium&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/zThorium)
 
-## No es perfecto ¿verdad?
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zThorium&theme=react&background=1F222E&hide_border=true&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)](https://github.com/zThorium)
 
-**<a href="https://github.com/zThorium"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+> **Note:** Top languages only reflect my public code and don't represent my full skill set.
 
-“Creo que es muy importante tener un ciclo de retroalimentación, donde constantemente piensas en lo que has hecho y cómo podrías hacerlo mejor."
+---
 
-  </td>
-  </tr>
-</table>
-
-------
-
-[zThorium](https://github.com/zThorium)
-
-Last Edited on: 26/09/25
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
+</picture>
