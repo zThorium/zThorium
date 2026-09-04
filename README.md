@@ -2,26 +2,38 @@
   <img src="https://komarev.com/ghpvc/?username=zThorium&label=Profile%20views&color=0e75b6&style=flat" alt="zThorium" />
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Fabi%C3%A1n+Lara+Figueroa" alt="Title GitHub Readme" />
-  </a>
-</h1>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabián-informational?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fabian-figueroa-81612a387/](https://www.linkedin.com/in/fabian-lara-figueroa-81612a387/))
-[![Mail](https://img.shields.io/badge/Gmail-fabianfigueroa1610@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:fabianfigueroa1610@gmail.com?subject=Hey!)
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
+
+## Fabián Lara Figueroa
+
+**Civil Computer Engineer · AI Agent Systems · Full-Stack**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabián-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-lara-figueroa-81612a387/)
+[![Mail](https://img.shields.io/badge/Gmail-fabianfigueroa1610@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianfigueroa1610@gmail.com?subject=Hey!)
 
 <br>
 
-# 👋 Hi there
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
-My name is Fabián Lara, a Civil Computer Engineer from Universidad de Valparaíso 🇨🇱, passionate about building AI-powered systems and full-stack applications.
+</div>
+
+---
+
+## 👋 Hi there
+
+Civil Computer Engineer from Universidad de Valparaíso 🇨🇱, passionate about building AI-powered systems and full-stack applications.
 
 💻 I specialize in designing and developing **LLM-based chatbots and agent architectures** using LangGraph and LangChain on NestJS backends — currently building an intelligent medical scheduling assistant.
 
 🧠 My interests lie in **applied AI, prompt engineering, LLM agent patterns**, and scalable backend systems with TypeScript, Prisma, and PostgreSQL.
-
-🔭 Outside work, I enjoy exploring new tech, contributing to side projects, and continuously iterating on my own developer tooling and workflows.
 
 ---
 
